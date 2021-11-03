@@ -20,4 +20,12 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+  <view class="usermotto2">
+    <text class="user-motto">{{motto2}}</text>
+  </view>
 </view>
+<text>pages/wxml/index.wxml</text>
+<text class="time">当前时间：{{time}}</text>
+<image class="userinfo-avatar" src="./image/a.png" ></image>
+<text>{{ a === 10? "变量 a 等于10": "变量 a 不等于10"}}</text>
+<text data-test="{{test}}"> hello world</text>

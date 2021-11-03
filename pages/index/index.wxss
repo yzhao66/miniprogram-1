@@ -15,5 +15,12 @@
 }
 
 .usermotto {
-  margin-top: 200px;
+  margin-top: 50px;
+}
+
+.usermotto2 {
+  margin-top: 20px;
+}
+.time{
+  margin-top: 2px;
 }
